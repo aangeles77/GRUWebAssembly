@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/GRUWebAssembly.styles.css"
     },
     {
+      "Id": "/Users/angeloangeles/GRUSoft/GRUWebAssembly/wwwroot/.nojekyll",
+      "PackagePath": "staticwebassets/.nojekyll"
+    },
+    {
       "Id": "/Users/angeloangeles/GRUSoft/GRUWebAssembly/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },
@@ -35,6 +39,14 @@
     {
       "Id": "/Users/angeloangeles/GRUSoft/GRUWebAssembly/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/angeloangeles/GRUSoft/GRUWebAssembly/wwwroot/quickbooksettings_dev.json",
+      "PackagePath": "staticwebassets/quickbooksettings_dev.json"
+    },
+    {
+      "Id": "/Users/angeloangeles/GRUSoft/GRUWebAssembly/wwwroot/quickbooksettings_prod.json",
+      "PackagePath": "staticwebassets/quickbooksettings_prod.json"
     },
     {
       "Id": "/Users/angeloangeles/GRUSoft/GRUWebAssembly/wwwroot/sample-data/weather.json",

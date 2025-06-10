@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GRUWebAssembly")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35e8863e433a203074043fa5869859f728dd9463")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a25993c62e32f472cfd22c6c3c2419cd84898988")]
 [assembly: System.Reflection.AssemblyProductAttribute("GRUWebAssembly")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GRUWebAssembly")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
