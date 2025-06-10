@@ -1,9 +1,0 @@
-<script type="text/javascript">
-  // Redirect all 404s to index.html preserving the path for Blazor to handle
-  const path = window.location.pathname;
-  if (!path.startsWith('/GRUWebAssembly/auth-callback')) {
-    window.location.href = '/GRUWebAssembly/auth-callback.html';
-  } else {
-    window.location.href = '/GRUWebAssembly/auth-callback.html' + window.location.search + window.location.hash;
-  }
-</script>
