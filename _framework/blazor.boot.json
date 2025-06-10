@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GRUWebAssembly",
   "resources": {
-    "hash": "sha256-CRaR8kcdqqjcL0jkEH87u7Xv5OYv+29kx8uyTzgW6wY=",
+    "hash": "sha256-qrQnFylF0RvrfqqLSNRGLB44zeL9VdfYl4gGILdEIxA=",
     "jsModuleNative": {
       "dotnet.native.8.0.16.1zetzb7k81.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
@@ -19,7 +19,7 @@
     "assembly": {
       "GRUComponents.wasm": "sha256-J1vxH66PZPdZtWzlaqnkvLxcvMfipH58ncmiXU69NGc=",
       "GRULib.wasm": "sha256-yxTemm2OAHRvk4cnSQzbQpvCwLZA+PjnbrKxoOv+Ymk=",
-      "GRUWebAssembly.wasm": "sha256-cVR/FJuES+dsvj16VeRgcfvo0XzsIjqw+pjhbAee80s=",
+      "GRUWebAssembly.wasm": "sha256-zkuYTiL8bDCCzZrcX3I7cDEMuTY3x3BGrU8fEYJ2018=",
       "Microsoft.AspNetCore.Authentication.Abstractions.wasm": "sha256-u9iMOIltdEH1f+auTSi7mcb4SBt2memdjfBRiDl2cNE=",
       "Microsoft.AspNetCore.Authentication.Cookies.wasm": "sha256-l9JFTlQeou24it5z/wN5pLncCEvGXIhHTExQWTO548U=",
       "Microsoft.AspNetCore.Authentication.Core.wasm": "sha256-RvrgkuvCzUhIR14zDxsUqVpYzujZOdJHMJ36UJgBMIg=",
@@ -47,7 +47,7 @@
       "Microsoft.Extensions.DependencyInjection.wasm": "sha256-tE7rKza8WVDv6Roh8/u3hDm+jsqqoLJEmu6wLJbJIdc=",
       "Microsoft.Extensions.FileProviders.Abstractions.wasm": "sha256-ZoAbiYZK7VZ2mD8FEZjqRbk43QD1SZDs509aXgjYejU=",
       "Microsoft.Extensions.Identity.Core.wasm": "sha256-VbmcyMzMqrVC66W45qMuqs/dtZgiZUhpx7C1h/FoDsU=",
-      "Microsoft.Extensions.Logging.Abstractions.wasm": "sha256-nRxUBQug6mmHLbtwdUcApdBjwh83uJ98FgXUKbccrKU=",
+      "Microsoft.Extensions.Logging.Abstractions.wasm": "sha256-omECt5dQkwjWIJQFgYK4N1tHqJUCHApcUVHiYsguIXI=",
       "Microsoft.Extensions.Logging.wasm": "sha256-BJlGy9aATLdNNkoFkBmvxzhvb1rkwXZcKYPVVImGftY=",
       "Microsoft.Extensions.ObjectPool.wasm": "sha256-SzlpBLWOJTsoCiKIRXEXmsPmCXQtQnAuflFV1+isAL8=",
       "Microsoft.Extensions.Options.wasm": "sha256-4hd7On3PSryi4JTFNObiP1JGU13d4Yp0eMxCoptpHPY=",
