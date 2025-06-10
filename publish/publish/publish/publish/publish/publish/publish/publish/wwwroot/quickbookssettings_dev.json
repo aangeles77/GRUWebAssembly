@@ -1,6 +1,0 @@
-{
-    "ClientId": "AB8nCa3SuYj5e1Zism2mXeZl8DcH4SRN8Ydq5AeT2A0CtpKj6T",
-    "ClientSecret": "SZdB1KUAjJYs8NlMtOEuIhMXiSfRc6JmvgDIwgSr",
-    "RedirectUri": "http://localhost:5114/auth-callback",
-    "RealmId": null 
-  }
